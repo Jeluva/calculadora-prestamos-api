@@ -1,0 +1,12 @@
+{
+  "name": "calculadora-prestamos-api",
+  "version": "1.0.0",
+  "description": "API chica de cálculos financieros (cuota, amortización, interés compuesto, conversión de tasas)",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test"
+  },
+  "engines": { "node": ">=20" },
+  "license": "MIT"
+}
